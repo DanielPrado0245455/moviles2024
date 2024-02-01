@@ -1,1 +1,1 @@
-nombres
+nombres: Daniel y Mario
